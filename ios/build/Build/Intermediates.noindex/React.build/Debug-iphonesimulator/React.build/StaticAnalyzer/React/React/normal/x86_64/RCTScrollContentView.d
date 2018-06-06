@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/RCTView.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/martin/Martin/react-native/baby/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/martin/Martin/react-native/baby/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/martin/Martin/react-native/baby/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
