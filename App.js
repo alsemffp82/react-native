@@ -1,28 +1,71 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+// import React from 'react';
+// import { StyleSheet, Text, View } from 'react-native';
 
-import FetchLocation from './components/FetchLocation';
+// import FetchLocation from './components/FetchLocation';
 
-export default class App extends React.Component {
+// export default class App extends React.Component {
 
-  getUserLocationHandler = () => {
-    console.log('hello react-native');
-  }
+//   getUserLocationHandler = () => {
+//     console.log('hello react-native');
+//   }
 
+//   render() {
+//     return (
+//       <View style={styles.container}>
+//         <FetchLocation onGetLocation={this.getUserLocationHandler}/>
+//       </View>
+//     );
+//   }
+// }
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     backgroundColor: '#fff',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//   },
+// });
+
+import React, { Component } from 'react';
+import { AppRegistry, Image } from 'react-native';
+
+export default class Bananas extends Component {
   render() {
+    let picture = {
+      uri: 'https://upload/wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg'
+    };
     return (
-      <View style={styles.container}>
-        <FetchLocation onGetLocation={this.getUserLocationHandler}/>
-      </View>
+      <Image source={picture} style={{ width:193, height: 110}} />
     );
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+AppeRegistry.registerComponent('Baby', () => Bananas);
+// import { StyleSheet, Text, View } from 'react-native';
+
+// import FetchLocation from './components/FetchLocation';
+
+// export default class App extends React.Component {
+
+//   getUserLocationHandler = () => {
+//     console.log('hello react-native');
+//   }
+
+//   render() {
+//     return (
+//       <View style={styles.container}>
+//         <FetchLocation onGetLocation={this.getUserLocationHandler}/>
+//       </View>
+//     );
+//   }
+// }
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     backgroundColor: '#fff',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//   },
+// });

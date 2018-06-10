@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_72337150e2f436ed453879ae61ce101b3a4d64ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1a5f9d475a81f94a0664880ee43874c159faf19f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_7c56f7791205df1257b00172b34a2c9d251d78ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_408608957c69407a463ed917204c5cb3aeff8be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_bce3ac5aa1d400c521bd7019224ca86bb78672a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b095bc318833eb169018facba2b28cfecfea8ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9d35b527c994241e511629ad773a0551797544f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c76e48a30eeea8233ad2ac3ca1d7e54afe3340ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7cf911ef8a2ecc15010651cc8dcb0e712db92541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_01c2a2df5ad29cea3638033632a9503be3e9f82a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e2d0fa1181276d8af6658f00b19c9cbe2faa1d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_957348fd0248fff5a531876b6bf69b6def867900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5261ce876a4893461530384b53d73d7251de4de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_f620a1d53bf954b1955b5196eaf4a9d63292ec61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_347ac03fafc0177040687c224aad0d45f2b15a4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_63d203dd74934eb8435dbd917cf6deedd2e2b4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_4656f5fab3b1986d24ed82e83b46979e0a26d8e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ce0e06d2298668db27ee6668aecf6fbe8139a6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_20aa5a020c46ccd6cd67c6e10687affcee12231d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_70672fc4fbb10063627c32a059d449fe1ba6f1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/martin/Martin/react-native/baby/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f04045fe83fe4952658189c6320dfb2d9f973b79.jar" />
+    </item>
+
+</items>
